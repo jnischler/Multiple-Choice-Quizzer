@@ -43,8 +43,7 @@ class Quiz:
 
     @classmethod
     def run_from_file(cls, path: str, *args, **kwargs):
-        with open(path) as file_handle:
-            cls.from_string(file_handle.read().strip()).run(*args, **kwargs)
+        cls.from_file(path).run(*args, **kwargs)
 
     def run(self, shuffle_questions=True, shuffle_answers=True, feedback=True, requiz=True):
         """Interactively quiz the user via CLI."""
@@ -97,11 +96,20 @@ class Quiz:
 
         return cls(list(map(Question.from_string, string.split('\n\n'))))
 
+    @classmethod
+    def from_file(cls, path: str):
+        with open(path) as file_handle:
+            return cls.from_string(file_handle.read().strip())
+
     def __str__(self):
         return '\n\n'.join(list(map(str, self.questions)))
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print(f'Usage: {sys.argv[0]} [quiz_file.txt]')
+        print(f'Usage: {sys.argv[0]} (quiz_file.txt) [-q]')
         exit(1)
-    Quiz.run_from_file(sys.argv[1])
+    if len(sys.argv) > 2 and sys.argv[2] == '-q':
+        for question in Quiz.from_file(sys.argv[1]).questions:
+            print(question.question)
+    else:
+        Quiz.run_from_file(sys.argv[1])
