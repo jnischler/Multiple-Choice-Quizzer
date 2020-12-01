@@ -111,5 +111,8 @@ if __name__ == '__main__':
     if len(sys.argv) > 2 and sys.argv[2] == '-q':
         for question in Quiz.from_file(sys.argv[1]).questions:
             print(question.question)
+            for answer in question.answers:
+                print(answer.answer)
+            print()
     else:
         Quiz.run_from_file(sys.argv[1])
