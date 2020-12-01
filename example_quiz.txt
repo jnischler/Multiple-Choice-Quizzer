@@ -1,0 +1,17 @@
+Which integer follows 1?
+3
+5
+*2
+1.1
+
+What sound does a dog make?
+*Bark
+Moo
+Oink
+Lol
+
+Which are mammals?
+*Dog
+*Elephant
+Spider
+Frog
