@@ -121,9 +121,7 @@ class Quiz:
             print("")
             print("Now I'll quiz you on the ones you got wrong!")
             print("")
-            Quiz([questions[i] for i in filter(lambda i: not results[i], range(num_questions))]).run(shuffle_questions,
-                                                                                                     shuffle_answers,
-                                                                                                     feedback, requiz, display_correct_answer_in_feedback)
+            Quiz([questions[i] for i in filter(lambda i: not results[i], range(num_questions))]).run()
 
     @classmethod
     def from_string(cls, string: str):
