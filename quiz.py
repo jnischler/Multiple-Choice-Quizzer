@@ -5,6 +5,18 @@ import random
 import string
 
 
+class BColors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
+
 class Answer:
     def __init__(self, answer: str, correct: bool):
         self.answer = answer
@@ -48,7 +60,7 @@ class Quiz:
     def run_from_file(cls, path: str, *args, **kwargs):
         cls.from_file(path).run(*args, **kwargs)
 
-    def run(self, shuffle_questions=True, shuffle_answers=True, feedback=True, requiz=True):
+    def run(self, shuffle_questions=True, shuffle_answers=True, feedback=True, requiz=True, display_correct_answer_in_feedback=True):
         """Interactively quiz the user via CLI."""
 
         keys = string.ascii_uppercase
@@ -77,10 +89,14 @@ class Quiz:
             correct = answer_indices == correct_indices
             if feedback:
                 if correct:
-                    print("That's right!")
+                    print(f"{BColors.OKGREEN}{BColors.UNDERLINE}That's right! :) keep it up!{BColors.ENDC}")
                 else:
-                    correct_answer_string = ', '.join([keys[i] for i in correct_indices])
-                    print(f'Nope. The correct answer was {correct_answer_string}.')
+                    print(f"{BColors.FAIL}Nope. :(, but don't give up ;){BColors.ENDC}")
+                    if display_correct_answer_in_feedback:
+                        correct_answer_string = ', '.join([keys[i] for i in correct_indices])
+                        print(f"{BColors.FAIL}\t-> The correct answer was {correct_answer_string}.{BColors.ENDC}")
+
+            print("")
             return correct
 
         results = list(map(ask_question, questions))
@@ -93,7 +109,7 @@ class Quiz:
             print("Now I'll quiz you on the ones you got wrong!")
             Quiz([questions[i] for i in filter(lambda i: not results[i], range(num_questions))]).run(shuffle_questions,
                                                                                                      shuffle_answers,
-                                                                                                     feedback, requiz)
+                                                                                                     feedback, requiz, display_correct_answer_in_feedback)
 
     @classmethod
     def from_string(cls, string: str):
