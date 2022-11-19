@@ -57,23 +57,32 @@ class Quiz:
         self.questions = questions
 
     @classmethod
-    def run_from_file(cls, path: str, *args, **kwargs):
-        cls.from_file(path).run(*args, **kwargs)
+    def run_from_file(cls, path: str):
+        cls.from_file(path).run()
 
-    def run(self, shuffle_questions=True, shuffle_answers=True, feedback=True, requiz=True, display_correct_answer_in_feedback=True):
+    def run(self):
         """Interactively quiz the user via CLI."""
 
         keys = string.ascii_uppercase
         questions = random.sample(self.questions, len(self.questions)) if shuffle_questions else self.questions
         print(f'Beginning quiz with {len(questions)} questions.')
 
+        if force_quit_with_callsign:
+            print("enter ! as answer to force quit")
+
+        print("")
+
         def read_answer_indices(num_answers: int) -> list:
             """Prompt user for their answers to the question."""
 
             answers = list(filter(lambda x: not x.isspace(), input('Enter all of your answers: ').upper()))
             for answer in answers:
+                if answer == "!" and force_quit_with_callsign:
+                    print("bye bye")
+                    exit(1)
+
                 if answer not in list(keys[:num_answers]):
-                    print(f'{answer} is not a valid choice. Try again.')
+                    print(f'{BColors.WARNING}{answer} is not a valid choice. Try again.{BColors.ENDC}')
                     return read_answer_indices(num_answers)  # tail recurse pls
             return [keys.index(key) for key in answers]
 
@@ -105,8 +114,13 @@ class Quiz:
         score = num_correct / num_questions
         print(f'Your score is {num_correct}/{num_questions} ({score * 100:.2f}%)')
 
+        if num_correct >= num_questions:
+            print(f"{BColors.OKGREEN}{BColors.BOLD}{BColors.UNDERLINE}YOU ARE MY EVERYTHING !!!!!!{BColors.ENDC}")
+
         if requiz and num_correct < num_questions:
+            print("")
             print("Now I'll quiz you on the ones you got wrong!")
+            print("")
             Quiz([questions[i] for i in filter(lambda i: not results[i], range(num_questions))]).run(shuffle_questions,
                                                                                                      shuffle_answers,
                                                                                                      feedback, requiz, display_correct_answer_in_feedback)
@@ -137,4 +151,12 @@ if __name__ == '__main__':
                 print(answer.answer)
             print()
     else:
+        # config dirty but works ;)
+        shuffle_questions = True
+        shuffle_answers = True
+        feedback = True
+        requiz = True
+        display_correct_answer_in_feedback = True
+        force_quit_with_callsign = True
+
         Quiz.run_from_file(sys.argv[1])
