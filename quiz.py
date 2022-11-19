@@ -4,6 +4,7 @@ import sys
 import random
 import string
 
+
 class Answer:
     def __init__(self, answer: str, correct: bool):
         self.answer = answer
@@ -19,6 +20,7 @@ class Answer:
 
     def __str__(self):
         return ('*' if self.correct else '') + self.answer
+
 
 class Question:
     def __init__(self, question: str, answers: list):
@@ -36,6 +38,7 @@ class Question:
 
     def __str__(self):
         return '\n'.join([self.question] + list(map(str, self.answers)))
+
 
 class Quiz:
     def __init__(self, questions: list):
@@ -59,7 +62,7 @@ class Quiz:
             for answer in answers:
                 if answer not in list(keys[:num_answers]):
                     print(f'{answer} is not a valid choice. Try again.')
-                    return read_answer_indices(num_answers) # tail recurse pls
+                    return read_answer_indices(num_answers)  # tail recurse pls
             return [keys.index(key) for key in answers]
 
         def ask_question(question: Question) -> bool:
@@ -76,7 +79,7 @@ class Quiz:
                 if correct:
                     print("That's right!")
                 else:
-                    correct_answer_string = ', '. join([keys[i] for i in correct_indices])
+                    correct_answer_string = ', '.join([keys[i] for i in correct_indices])
                     print(f'Nope. The correct answer was {correct_answer_string}.')
             return correct
 
@@ -88,7 +91,9 @@ class Quiz:
 
         if requiz and num_correct < num_questions:
             print("Now I'll quiz you on the ones you got wrong!")
-            Quiz([questions[i] for i in filter(lambda i: not results[i], range(num_questions))]).run(shuffle_questions, shuffle_answers, feedback, requiz)
+            Quiz([questions[i] for i in filter(lambda i: not results[i], range(num_questions))]).run(shuffle_questions,
+                                                                                                     shuffle_answers,
+                                                                                                     feedback, requiz)
 
     @classmethod
     def from_string(cls, string: str):
@@ -103,6 +108,7 @@ class Quiz:
 
     def __str__(self):
         return '\n\n'.join(list(map(str, self.questions)))
+
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
