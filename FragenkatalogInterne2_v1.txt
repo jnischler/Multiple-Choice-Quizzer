@@ -471,3 +471,67 @@ Ziel ist es, die intramuskuläre Koordination mit einem explosiven Training aufz
 Es sollte ein deutlicher Hypertrophieeffekt mit wenig einer geringen Wiederholungszahl (max. 3) erreicht ...
 Zu Beginn stehen die lokalen aeroben Ausdauerleistungen sowie die Verbesserung der Koordination im ...
 Es sollte vor Beginn ein 1-RM bzw. eine Abschätzung dieses zur Trainingssteuerung durchgeführt werden
+
+xHyperventilstionssyndrom
+*O2 Retention in der Lunge
+*CO2 Partialdruck sinkt sowohl im Blut als auch in der Ausatemluft
+*ph- und Elektrolytverschiebungen
+*irgendwas mit CO2 Wert geringer
+
+xHilfe bei Hyperventilationssyndrom
+*Beruhigung
+*evtl. kurzfristige Tütenatmung
+
+xWas versteht man unter einem Spannungspneumothorax?
+*Pneumothorax mit Ventilmechanismus, wodurch sich im Pleuraraum ein Überdruck ausbildet
+*eine lebensbedrohliche Erkrankung
+
+xPneumothorax Symptome
+*Plötzlich einsetzender, stechender, atemabhängiger Schmerz Im Brustkorb
+*gestaute Halsvenen
+*Angst, Panik, Unruhe
+
+xCOPD Auslöser
+*inhalativer Konsum alternativer Tabakprodukte
+*Tabakkonsum
+*Atemwegsinfektionen in der Kindheit
+*Inhalative Noxen
+
+xCOPD Behandlungsmethoden
+*Impfungen (Covid 19 etc.)
+*Patientenschulung
+*Atemschulung
+
+xWas ist Asthma Bronchiale?
+*eine chronische Erkrankung
+eine akute Erkrankung
+
+xErklärung von Asthma
+*Verschleimung der Bronchien
+
+xArthrose Maßnahmen
+*Kühlen/Wärmen
+*Operative Versteifung
+*NSAR
+
+xRheumatoide Arthritis Anzeichen
+#TODO
+
+xRheumatoide Arthritis Diagnostik
+*Anamnese, Erscheinungsbild
+*Labor
+*Röngten
+
+xWas ist Mb. Bechterew
+*Rückenschmerzen
+*unheilbar, chronische und entzündliche Krankheit
+*genetisch bedingt
+
+xMb. Bechterew Grundlagen
+*schleichender Beginn
+*Krankheitsbeginn im frühen Erwachsenenalter
+
+xBehandlungsmöglichkeiten Mb. Bechterew
+*Bewegungstherapie
+*Operation
+*Koritkosteroite
