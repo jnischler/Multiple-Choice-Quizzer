@@ -22,11 +22,11 @@ Wetterfühligkeit
 Muskelschmerz
 Belastungsschmerz
 
-Welche Punkte gehören zur Pathophysiologie des Asthma bronchiale
+<>Welche Punkte gehören zur Pathophysiologie des Asthma bronchiale
 Durchgehende Beschwerden wie Atemnot
-Entzündung der Bronchien
-Chronisch anhaltende Entzündung
-Bildung eines zähen Schleims
+*Entzündung der Bronchien
+*Chronisch anhaltende Entzündung
+*Bildung eines zähen Schleims
 
 Absolute Kontraindikationen für den Beginn einer kardiologischen Reha bei Vorliegen folgender Punkte?
 Unkontrollierte kardiale Arrhythmien in Ruhe oder unter Belastung
@@ -46,7 +46,7 @@ Lunge
 Gefäße
 Magen-Darmtrakt
 
-Risikofaktoren für eine COPD können sein?
+<>Risikofaktoren für eine COPD können sein?
 inhalativer Tabakkonsum
 Hauhige Atemwegsinfektionen in der Kindheit
 Inhalatier Konsum alternativer Tabakprodukte
@@ -54,9 +54,10 @@ Berufsbedingte inhalative Noxen
 
 Was gehört zu den Therapieansätzen bei der COPD?
 Antibiotika
-Schutzimpfungen, u. a. Pneumokokken, Influenza, COVID-19
-Trainingstherapie
-Patientenschulung
+*Schutzimpfungen, u. a. Pneumokokken, Influenza, COVID-19
+*Trainingstherapie
+*Patientenschulung
+*Atemphysiotherapie
 
 Welche Parameter sollten bei einer aussagekräftigen Spiroergometrie beachtet werden?
 Belastungsdauer mind. 15 min
@@ -78,9 +79,9 @@ Anpassungsphase - beginnend mit ca. 5 min, schrittweise Verlängerung auf 10 min
 
 Was steckt hinter der Pathophysiologie des Hyperventilationssyndroms?
 Es kommt zu einer CO₂ Retention in der Lunge
-CO₂ wird vermehrt abgeatmet
-ph- und Elektrolytverschiebungen
-CO₂-Partialdruck sinkt im Blut und in der Ausatemluft
+*CO₂ wird vermehrt abgeatmet
+*ph- und Elektrolytverschiebungen
+*CO₂-Partialdruck sinkt im Blut und in der Ausatemluft
 
 KardReha Empfehlungen für Bypass operierte Patienten, welche treffen zu?
 Über das Training hinaus braucht es keine besonderen Inhalte für eine Verbesserung der Prognose
@@ -114,9 +115,9 @@ Aufgrund der zugrunde liegenden pneumologischen Erkrankung kann während der Bel
 
 Welche Symptome können bei einem Pneumothorax auftreten?
 Im Gegensatz zum sekundären Pneumothorax können die Symptome bei einem primären Pneumothorax deutlich ausgeprägter sein
-Plötzlich einsetzender, stechender, atemabhängiger Schmerz im Brustbereich
-Angst, Panik, Unruhe
-Gestaute Halsvenen
+*Plötzlich einsetzender, stechender, atemabhängiger Schmerz im Brustbereich
+*Angst, Panik, Unruhe
+*Gestaute Halsvenen
 
 Was kommt in der WHO Empfehlung zur wöchentlichen körperlichen Aktivität vor?
 Im Vergleich sollte mehr Kraft als Ausdauer pro Woche trainiert werden
@@ -133,7 +134,7 @@ Schmerzmittel
 Was beschreibt das Hyperventilationssyndrom?
 Die Fähigkeit schneller als die Normalbevölkerung atmen zu können und dadurch einen erhöhten Sauerstoffumsatz zu wz
 Die Tatsache, dass man im Schnitt eine höhere Atemfrequenz als Normalzustand aufweist
-Eine psychogen oder somatogene Beschleunigung der Atmung und daraus resultierende Symptome und Dyspnoe
+*Eine psychogen oder somatogene Beschleunigung der Atmung und daraus resultierende Symptome und Dyspnoe
 Eine langsam beginnende Erkrankung ohne Behandlungsmöglichkeit
 
 Typisch für die ankylosierende Spondylitis (Mb Bechterw) ist folgendes?
@@ -144,8 +145,8 @@ Typisch ist der Befall des Illiosakralgelenkes
 
 Was gehört zu den Kardinalsymptomen einer COPD?
 Fieber und Schüttelfrost
-Belastungsdyspnoe
-Husten und Auswurf
+*Belastungsdyspnoe
+*Husten und Auswurf
 Vor allem im niedrigschwelligen Belastungsbereich bessere Sauerstoffversorgung aufgrund der großen Lungenbläschen
 
 Was wird bei der Spiroergometrie einfach gesagt gemessen?
@@ -176,7 +177,8 @@ Wobei handelt es sich bei einem Spannungspneumothorax?
 Eine lebensbedrohliche Erkrankung
 Ein über ihre Grundspannung hinausreichendes, gedehntes Lungengewebe
 Eine während es hochintensiven Intervalltrainings durch die Atmung komplett gefüllte und aufgespannte Lunge
-Ein Pneumothorax mit einem Ventilmechanismus und daraus resultierendem Überdruck im Pleuraraum
+*Ein Pneumothorax mit einem Ventilmechanismus und daraus resultierendem Überdruck im Pleuraraum
+*Ein lebensbedrohlicher Notfall
 
 Welche Therapieoptionen gibt es bei der ankylosierenden Spondylitis (Mb. Bechterew)?
 Operative Therapie
@@ -206,13 +208,13 @@ Was charakterisiert das Asthma bronchiale?
 Eine begleitende Kreislaufschwäche
 Eine begleitende Herzschwache
 Eine akute Entzündung der Atemwege
-Eine chronische Entzündung der Atemwege
+*Eine chronische Entzündung der Atemwege
 
 Was kann bei der Therapie eines Hyperventilationssyndroms helfen?
-Beruhigen
-Aufklärung
+*Beruhigen
+*Aufklärung
 Belastung, um das "zu viel an Sauerstoff zu verbrauchen
-Kurzfristiges Ruckatmen z.B. durch eine Tüte
+*Kurzfristiges Ruckatmen z.B. durch eine Tüte
 
 Erklärte Reha-Ziele?
 Lebensqualitätsverbesserung
@@ -472,41 +474,11 @@ Es sollte ein deutlicher Hypertrophieeffekt mit wenig einer geringen Wiederholun
 Zu Beginn stehen die lokalen aeroben Ausdauerleistungen sowie die Verbesserung der Koordination im ...
 Es sollte vor Beginn ein 1-RM bzw. eine Abschätzung dieses zur Trainingssteuerung durchgeführt werden
 
-xHyperventilstionssyndrom
-*O2 Retention in der Lunge
-*CO2 Partialdruck sinkt sowohl im Blut als auch in der Ausatemluft
-*ph- und Elektrolytverschiebungen
-*irgendwas mit CO2 Wert geringer
-
-xHilfe bei Hyperventilationssyndrom
-*Beruhigung
-*evtl. kurzfristige Tütenatmung
-
-xWas versteht man unter einem Spannungspneumothorax?
-*Pneumothorax mit Ventilmechanismus, wodurch sich im Pleuraraum ein Überdruck ausbildet
-*eine lebensbedrohliche Erkrankung
-
-xPneumothorax Symptome
-*Plötzlich einsetzender, stechender, atemabhängiger Schmerz Im Brustkorb
-*gestaute Halsvenen
-*Angst, Panik, Unruhe
-
-xCOPD Auslöser
-*inhalativer Konsum alternativer Tabakprodukte
-*Tabakkonsum
-*Atemwegsinfektionen in der Kindheit
-*Inhalative Noxen
-
-xCOPD Behandlungsmethoden
-*Impfungen (Covid 19 etc.)
-*Patientenschulung
-*Atemschulung
-
-xWas ist Asthma Bronchiale?
+Was ist Asthma Bronchiale?
 *eine chronische Erkrankung
 eine akute Erkrankung
 
-xErklärung von Asthma
+<>Erklärung von Asthma
 *Verschleimung der Bronchien
 
 xArthrose Maßnahmen
