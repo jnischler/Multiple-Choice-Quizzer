@@ -55,6 +55,7 @@ class Question:
 class Quiz:
     def __init__(self, questions: list):
         self.questions = questions
+        self.done_count = 1
 
     @classmethod
     def run_from_file(cls, path: str):
@@ -89,7 +90,7 @@ class Quiz:
         def ask_question(question: Question) -> bool:
             """Ask a question and return whether the user provided exactly all of the correct answers."""
 
-            print(question.question)
+            print(f'[{self.done_count}/{len(questions)}] {question.question}')
             answers = random.sample(question.answers, len(question.answers)) if shuffle_answers else question.answers
             for key, answer in zip(keys, answers):
                 print(f'({key}) {answer.answer}')
@@ -105,6 +106,7 @@ class Quiz:
                         correct_answer_string = ', '.join([keys[i] for i in correct_indices])
                         print(f"{BColors.FAIL}\t-> The correct answer was {correct_answer_string}.{BColors.ENDC}")
 
+            self.done_count += 1
             print("")
             return correct
 
@@ -118,6 +120,7 @@ class Quiz:
             print(f"{BColors.OKGREEN}{BColors.BOLD}{BColors.UNDERLINE}YOU ARE MY EVERYTHING !!!!!!{BColors.ENDC}")
 
         if requiz and num_correct < num_questions:
+            self.done_count = 1
             print("")
             print("Now I'll quiz you on the ones you got wrong!")
             print("")
