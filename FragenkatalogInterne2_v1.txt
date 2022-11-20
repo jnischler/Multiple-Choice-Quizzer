@@ -1,56 +1,14 @@
-Absolute Abbruchkriterien bei der Spiroergometrie?
-Abfall des systolischen Blutdrucks um mindestens 10 mmal-lg gegenüber den Ausgangsblutdruck trotz Belastungsanstieg ...
-Erschöpfung, Luftnot, Giemen, Beinkrampfe oder Claudicatio
-Arterielle Hypertonie uber 250 mmHg systolisch und/oder 115 mmHg diastolisch
-Eindeutige Angina pectoris
-
 Auf die Rheumatoide Arthritis trifft folgendes zu?
-Meist liegt eine familiare Häufung vor
+*Meist liegt eine familiare Häufung vor
 Männer sind häufiger betroffen als Frauen
-Häufig liegt eine genetische Prädisposition vor
+*Häufig liegt eine genetische Prädisposition vor
 Erkrankungsgipfel ist das jugendliche Alter
 
-Die Rheumatologie beschäftigt sich mit folgenden Aspekten?
-Mit Erkrankungen der hormonbildenden Organen und dessen sekretorischen Funktionen
-Mit Erkrankungen der Lunge und der ventilatorischen Funktionen
-Mit Erkrankungen des Herz-Kreislaufsystems bzw. mit deren Funktionen
-Mit muskuloskelettalen Erkrankungen bzw. Syndrome des Bewegungssystems
-
 Typische Symptome einer Arthrose sind?
-Anlaufschmerz
+*Anlaufschmerz
 Wetterfühligkeit
-Muskelschmerz
-Belastungsschmerz
-
-<>Welche Punkte gehören zur Pathophysiologie des Asthma bronchiale
-Durchgehende Beschwerden wie Atemnot
-*Entzündung der Bronchien
-*Chronisch anhaltende Entzündung
-*Bildung eines zähen Schleims
-
-Absolute Kontraindikationen für den Beginn einer kardiologischen Reha bei Vorliegen folgender Punkte?
-Unkontrollierte kardiale Arrhythmien in Ruhe oder unter Belastung
-akute Aortendissektion
-Akutes Koronarsyndrom < 48h
-Dekompensierte Herzinsuffizienz
-
-Welche absoluten Kontraindikationen gibt es bei der Spiroergometrie?
-Instabile Angina pectoris
-Stattgehabter Herzinfarkt vor 1 Jahr
-Koronare Herzerkrankung
-Schwangerschaft
-
-Die Pneumologie beschäftigt sich mit den Funktionen und Erkrankungen folgenden Organs?
-Herz
-Lunge
-Gefäße
-Magen-Darmtrakt
-
-<>Risikofaktoren für eine COPD können sein?
-inhalativer Tabakkonsum
-Hauhige Atemwegsinfektionen in der Kindheit
-Inhalatier Konsum alternativer Tabakprodukte
-Berufsbedingte inhalative Noxen
+*Muskelschmerz
+*Belastungsschmerz
 
 Was gehört zu den Therapieansätzen bei der COPD?
 Antibiotika
@@ -59,59 +17,23 @@ Antibiotika
 *Patientenschulung
 *Atemphysiotherapie
 
-Welche Parameter sollten bei einer aussagekräftigen Spiroergometrie beachtet werden?
-Belastungsdauer mind. 15 min
-Trittfrequenz zw. 60- 80 U/min
-Alter des Patienten
-Krankheiten des Patienten
-
-Die kardiologische Reha wird in Phasen eingeteilt, welche Zuordnung zur Phase 1 ist nichtig?
-Akutbehandlung
-Anschluss an die Akutbehandlung mittels ambulanter/stationarer Reha
-Trainingstherapiegruppen" nach Abschluss der kardiologischen Reha
-Anschluss an eine ambulante Reha nach Akutbehandlung
-
-Welche Trainingslangen werden in den verschiedenen Phasen der KardReha angestrebt?
-Stabilisationsphase - allmähliche Verlängerung der Trainingsdauer von 20-45 (bis zu 60) min
-Aufbauphase - allmähliche Verlängerung der Trainingsdauer von 10 auf 20 (bis zu 45) min
-Abschlussphase - gegen Ende der KardReha eine maximale Ausbelastung zur Evaluierung des Trainingseffekts
-Anpassungsphase - beginnend mit ca. 5 min, schrittweise Verlängerung auf 10 min
-
 Was steckt hinter der Pathophysiologie des Hyperventilationssyndroms?
 Es kommt zu einer CO₂ Retention in der Lunge
 *CO₂ wird vermehrt abgeatmet
 *ph- und Elektrolytverschiebungen
 *CO₂-Partialdruck sinkt im Blut und in der Ausatemluft
 
-KardReha Empfehlungen für Bypass operierte Patienten, welche treffen zu?
-Über das Training hinaus braucht es keine besonderen Inhalte für eine Verbesserung der Prognose
-Es soll eine KardReha im Anschluss an die Operation erfolgen
-Die Trainingsintensitat soll unter kontrollierten Bedingungen im oberen Drittel des individuell ermittelten vertretbaran Intensitätsbereich liegen
-Das Trainingsprogramm kann wie zB auch mit Herzinfarktpatienten ohne Einschrankungen durchgeführt werden
-
 Von welcher "Minimaldosis" wird bei physischer Aktivitat ausgegangen um einen prognostisch günstigen Effekt zu erzielen?
-15 min/Tag
+*15 min/Tag
 30 min/Tag
 10 min/Tag
 20 man/Tag
 
 Algemein ist zur ankylosierenden Spondylitis (Mb Bechterew) folgendes festzuhalten?
-Männer sind häufiger betroffen als Frauen
-Auslöser sind chronisch-entzündliche Prozesse durch unbekannte Erreger
-Manifestation eher im jungen Erwachsenenalter
+*Männer sind häufiger betroffen als Frauen
+*Auslöser sind chronisch-entzündliche Prozesse durch unbekannte Erreger
+*Manifestation eher im jungen Erwachsenenalter
 Es kommt nur eine genetische Mutation in Frage, die mit Sicherheit zur Erkrankung führt
-
-Was ist das Ziel, die Anforderung an den 6-Minuten-Gehtest?
-Mindestens 30m ohne Richtungsanderung
-In 6 Minuten so weit als möglich zu kommen
-Tempoänderungen, Pausen, etc, sind erlaubt
-Durchwegs ohne Steigung
-
-Welche Besonderheiten treffen bei Patienten in der pneumologischen Reha zu?
-Wenn eine Sauerstoffgabe während der Reha notwendig wird, muss diese abgebrochen werden
-Neben der körperlichen Reha ist auch eine atemphysiotherapeutische Begleittherapie sinnvoll
-Die Lungenfunktion müssen auf einem guten Niveau sein, bevor die Reha starten kann
-Aufgrund der zugrunde liegenden pneumologischen Erkrankung kann während der Belastung die Lungenfunktion rapide abnehmen
 
 Welche Symptome können bei einem Pneumothorax auftreten?
 Im Gegensatz zum sekundären Pneumothorax können die Symptome bei einem primären Pneumothorax deutlich ausgeprägter sein
@@ -119,17 +41,11 @@ Im Gegensatz zum sekundären Pneumothorax können die Symptome bei einem primär
 *Angst, Panik, Unruhe
 *Gestaute Halsvenen
 
-Was kommt in der WHO Empfehlung zur wöchentlichen körperlichen Aktivität vor?
-Im Vergleich sollte mehr Kraft als Ausdauer pro Woche trainiert werden
-2x muskelkräftigende Übungen pro Woche
-75 min hochintensives Intervalltraining pro Woche
-150 min mittleres Intensitätsniveau pro Woche
-
 Thereapiemöglichkeiten bei Arthrose?
-Kälte-/Wärmeanwendung
-Operativer Gelenkersatz
-Gelenkversteifungen
-Schmerzmittel
+*Kälte-/Wärmeanwendung
+*Operativer Gelenkersatz
+*Gelenkversteifungen
+*Schmerzmittel
 
 Was beschreibt das Hyperventilationssyndrom?
 Die Fähigkeit schneller als die Normalbevölkerung atmen zu können und dadurch einen erhöhten Sauerstoffumsatz zu wz
@@ -140,8 +56,8 @@ Eine langsam beginnende Erkrankung ohne Behandlungsmöglichkeit
 Typisch für die ankylosierende Spondylitis (Mb Bechterw) ist folgendes?
 Vorrangig sind die peripheren Gelenke betroffen
 Es liegt eine erbliche Komponente vor
-Unheilbare, chronisch-entzündliche Erkrankung die zur Versteifung der Wirbelsäule führen kann
-Typisch ist der Befall des Illiosakralgelenkes
+*Unheilbare, chronisch-entzündliche Erkrankung die zur Versteifung der Wirbelsäule führen kann
+*Typisch ist der Befall des Illiosakralgelenkes
 
 Was gehört zu den Kardinalsymptomen einer COPD?
 Fieber und Schüttelfrost
@@ -149,28 +65,10 @@ Fieber und Schüttelfrost
 *Husten und Auswurf
 Vor allem im niedrigschwelligen Belastungsbereich bessere Sauerstoffversorgung aufgrund der großen Lungenbläschen
 
-Was wird bei der Spiroergometrie einfach gesagt gemessen?
-Kraft über eine gewissen Dauer
-Atmung wahrend einer definierten Belastung
-Zusammenspiel von Herz-Kreislauf-Stoffwechsel-Atmung
-Grad der Erschöpfung während einer Ausbelastung
-
-Moderates Risiko für den Beginn einer kardiologischen Reha bei Vorliegen folgender Punkte?
-Auftreten von Angina pectoris bei höheren Belastungen während des Belastungstests
-Auftreten von ungewöhnlicher Kurzatmigkeit, Benommenheit oder Schwindel bei höheren Belastungsintensitäten
-Nach Herzstillstand oder Reanimation
-Keine signifikante linksventrikulare Dysfunktion (EF 2 50 %)
-
-Vergleich medikamentöse Therapie und Trainingstherapie?
-Zum Ausschluss von Kontraindikationen von gezielter Trainingstherapie ist eine sportmedizinische Untersuchung notwendig
-Anders als bei Medikamenten ist die Dosis der Trainingstherapie nicht ausschlaggebend
-Bei der Art der Umsetzung von Trainingstherapie ist ein vorausgegangener ungesunder Lebensstil nicht ausschlaggebend
-Anders als Medikamente hat Trainingstherapie nicht nur auf die Organpathologie Einfluss, sondern auch auf das Zusammenspiel der Ganzkörper...
-
 Was steckt hinter der Pathophysiologie der Arthrose?
-Es kommt zu Knorpelschäden
-Eine aktivierte (?) Arthtrose bereitet oft keine Schmerzen
-Das Endstadium ist eine sogenannte "Knochenglatze"
+*Es kommt zu Knorpelschäden
+Eine aktivierte Arthrose bereitet oft keine Schmerzen
+*Das Endstadium ist eine sogenannte "Knochenglatze"
 Es kommt nur eine Minderdurchblutung des Knorpels aufgrund einer Fehlbelastung im Gelenk
 
 Wobei handelt es sich bei einem Spannungspneumothorax?
@@ -181,28 +79,16 @@ Eine während es hochintensiven Intervalltrainings durch die Atmung komplett gef
 *Ein lebensbedrohlicher Notfall
 
 Welche Therapieoptionen gibt es bei der ankylosierenden Spondylitis (Mb. Bechterew)?
-Operative Therapie
-Bewegungstherapie
-Entzündungshemmende Schmerzmittel (NSAR)
-Kortikosteroide
+*Operative Therapie
+*Bewegungstherapie
+*Entzündungshemmende Schmerzmittel (NSAR)
+*Kortikosteroide
 
 Wie kann man eine rheumatoide Arthritis diagnostizieren?
 Gelenkspunktionen
-Konventionelles Röntgen der Gelenke
-Anamnese und Erscheinungsbild
-Laboruntersuchungen
-
-Welche Vorteile hat die Spiroergometrie im Vergleich zur Ergometrie?
-Herzfrequenzverhalten während der Belastung
-Aussage über Gasaustausch während der Belastung
-Blutdruckverhalten während der Belastung
-Kontrolle und Abschätzung der Mitarbeit des Probanden
-
-Was beschreibt die BORG-Skala?
-Die subjektive Erschöpfung
-Den Erfahrungswert eines Patienten in der Trainings pie
-Die tatsächlich Messbare Erschöpfung
-Die maximal mögliche Wattstufe bei der Spiroergometrie
+*Konventionelles Röntgen der Gelenke
+*Anamnese und Erscheinungsbild
+*Laboruntersuchungen
 
 Was charakterisiert das Asthma bronchiale?
 Eine begleitende Kreislaufschwäche
@@ -216,294 +102,368 @@ Was kann bei der Therapie eines Hyperventilationssyndroms helfen?
 Belastung, um das "zu viel an Sauerstoff zu verbrauchen
 *Kurzfristiges Ruckatmen z.B. durch eine Tüte
 
-Erklärte Reha-Ziele?
-Lebensqualitätsverbesserung
-Positive Beeinflussung anderer Risikofaktoren
-Förderung der individuellen Gesundheitskompetenz
-Verbesserung von Verlauf und Prognose der Erkrankung
-
 Was passt am ehestens zum Krankheitsbild einer Arthrose?
 Es ist eine eher seltene Erkrankung innerhalb der Rheumatologie
-Sie nimmt mit dem Lebensalter an Häufigkeit zu
+*Sie nimmt mit dem Lebensalter an Häufigkeit zu
 Es ist eine schubweise, akut einsetzende Erkrankung
 Männer sind häufiger betroffen als Frauen
 
-KardReha Empfehlungen für Patienten mit Myokarditis, welche treffen zu?
-Patienten mit akuter Myokarditis sollen nicht an einer KardReha teilnehmen
-Eine körperliche Ausbelastung sollte nicht erfolgen.
-Alle Patienten mit ausgeheilter Myokarditis brauchen keine KardReha mehr absolvieren, da diese ausgeheilt ist
-Es sollte gleich mit intensiver Belastung begonnen werden, um die vorhandene Herzleistung beurteilen zu können
-
-Die wichtigsten Gruppen in der kardiologischen Reha sind?
-"nach akuter Pulmonalarterienembolie"
-"hach koronarer Bypass-Operation"
-"chronische Herzinsuffizienz"
-"nach akutem Koronarsyndrom"
-
 Von welcher "Minimaldosis" wird bei physischer Aktivität ausgegangen um einen prognostisch günstigen Effekt ...?
-15 min/Tag
+*15 min/Tag
 20 min/Tag
 30 min/Tag
 10 min/Tag
-
-KardReha Empfehlungen für Bypass operierte Patienten, welche treffen zu?
-Das Trainingsprogramm kann wie z.B. auch mit Herzinfarktpatienten ohne Einschränkungen durchgeführt werden
-Die Trainingsintensität soll unter kontrollierten Bedingungen im oberen Drittel des individuell ermittelten vertre
-Über das Training hinaus braucht es keine besonderen Inhalte für eine Verbesserung der Prognose
-Es soll eine KardReha im Anschluss an die Operation erfolgen
-
-Welche Zusammenhänge treffen auf die Trainingssteuerung in der Trainingstherapie zu?
-Keine hohen Intensitäten möglich --> Nur kurze, aber hochintensive Einheiten durchführen
-Keine hohen Trainingsumfänge möglich -> Eine einmalig sehr lange Einheit planen, dafür nur 1x/Woche
-Keine hohen Intensitäten möglich -> Erhöhung der Trainingsumfange um gleichen Effekt zu erzielen
-Keine hohen Trainingsumfänge möglich -> Kurze, intensive Intervalleinheiten um gleichen Effekt zu erziel
-
-Welche Risikofaktoren sollten konsequent der kardiologischen Reha medikamentös behandelt werden?
-Depressive Verstimmungen
-Hypercholesterinämie
-Diabetes mellitus
-Arterielle Hypertonie
-
-KardReha Empfehlungen für ACS, welche Antworten treffen zu?
-Eine Reha nach akutem Koronarsyndrom sollte aufgrund der kardialen Belastung nicht durchgefüh
-Eine Reha soll zwar medikamentöse und psychologische Hilfestellung leisten, jedoch ist ein Traini
-Die Trainingsintensität sollte sich unterhalb der individuellen aeroben Schwelle bewegen
-Ein Trainingsprogramm soll ein Gesamttrainingsvolumen von ≥ 1000 min abdecken
-
-Welche Besonderheiten treffen bei Patienten in der pneumologischen Reha zu?
-Wenn eine Sauerstoffgabe während der Reha notwendig wird, muss diese abgebrochen werden
-Die Lungenfunktion müssen auf einem guten Niveau sein, bevor die Reha starten kann
-Neben der körperlichen Reha ist auch eine atemphysiotherapeutische Begleittherapie sinnvoll
-Aufgrund der zugrunde liegenden pneumologischen Erkrankung kann während der Belastung die Lunge
-
-KardReha Empfehlungen für Herzinsuffizienzpatienten, welche treffen zu?
-Es gibt für diese Patienten nur die Möglichkeit einer stationären Reha, da der Überwachungsaufwand an
-Eine KardReha soll auf der Basis eines individuell angepassten strukturierten und überwachten Trainings
-Eine KardReha ist für diese Patienten aufgrund der schlechten Herzleistung nicht empfohlen
-Für Patienten mit Herzinsuffizienz (NYHA I-III) soll erst nach längerer Pause nach stationärer Behandlung
-
-Welche Trainingslängen werden in den verschiedenen Phasen der KardReha angestrebt?
-Abschlussphase - gegen Ende der KardReha eine maximale Ausbelastung zur Evaluierung de
-Stabilisationsphase - allmähliche Verlängerung der Trainingsdauer von 20-45 (bis zu > 60) min
-Aufbauphase - allmähliche Verlängerung der Trainingsdauer von 10 auf 20 (bis zu 45) min
-Anpassungsphase - beginnend mit ca. 5 min, schrittweise Verlängerung auf 10 min
-
-Relative Abbruchkriterien bei der Spiroergometrie?
-Zeichen verminderter peripherer Perfusion (Zyanose oder Blässe)
-Der Wunsch des Untersuchten, die Belastung zu beenden
-Anhaltende ventrikuläre Tachykardie
-Abfall der Tretkurbel-Umdrehungszahl <40 U/min
-
-Was kommt in der WHO Empfehlung zur wöchentlichen körperlichen Aktivität vor?
-150 min mittleres Intensitätsniveau pro Woche
-2x muskelkräftigende Übungen pro Woche
-Im Vergleich sollte mehr Kraft als Ausdauer pro Woche trainiert werden
-75 min hochintensives Intervalltraining pro Woche
-
-Welche absoluten Kontraindikationen gibt es bei der Spiroergometrie?
-Schwangerschaft
-Instabile Angina pectoris
-Stattgehabter Herzinfarkt vor 1 Jahr
-Koronare Herzerkrankung
-
-Absolute Abbruchkriterien bei der Spiroergometrie?
-Eindeutige Angina pectoris
-Erschöpfung, Luftnot, Giemen, Beinkrämpfe oder Claudicatio
-Abfall des systolischen Blutdrucks um mindestens 10 mmHg gegenüber den Ausgangsblutd
-Arterielle Hypertonie über 250 mmHg systolisch und/oder 115 mmHg diastolisch
-
-Hohes Risiko für den Beginn einer kardiologischen Reha bei Vorliegen folgender Punkte?
-Körperliche Leistungsfähigkeit 27 METS
-Nach Herzschrittmacher-Implantation
-Komplexe Arrhythmien in Ruhe oder unter Belastung
-Mittelgradig eingeschränkte linksventrikuläre Pumpfunktion (EF 40 - 49%)
-
-Welche Domänen klassifiziert die WHO, die für den motorischen Energieverbrauch beeinflussen?
-Freizeit
-Haushalt
-Transport
-Beruf
-
-Welche zusätzlichen Informationen liefert mir die Spiroergometrie im Vergleich zur Ergometrie?
-Sauerstoffaufnahme
-Belastungs-EKG
-Ventilationsvolumen
-Kohlendioxidabgabe
-
-Welche Antworten beschreiben "physische Aktivität" am besten?
-Strukturierte, sich wiederholende und beabsichtigte, zielgerichtete Verbesserung der physisch
-Jede Bewegung mit einem definierten Ziel
-Jede körperliche durch Muskelarbeit hervorgerufene Bewegung
-Neben der körperlichen auch die geistige Aktivität bei anspruchsvollen psychischen Anforderung
-
-Welche Trainingsparameter sind für die laufende KardReha von Bedeutung?
-Prozentualer Anteil der maximal erreichten Herzfrequenz (%HFmax)
-Borg-Skala (RPE = rate of perceived exertion)
-Prozentualer Anteil der maximal erreichten Sauerstoffaufnahme (%VO2peak)
-Prozentualer Anteil der maximal erreichten Leistung (%Wattmax)
-
-Was beschreibt die BORG-Skala?
-Den Erfahrungswert eines Patienten in der Trainingstherapie
-Die maximal mögliche Wattstufe bei der Spiroergometrie
-Die tatsächlich Messbare Erschöpfung
-Die subjektive Erschöpfung
-
-Was charakterisiert "Training" am besten?
-Jede Form von Bewegung, die den Energieumsatz steigert - ohne definiertes Ziel
-Jede körperliche, durch Muskelarbeit hervorgerufene, Bewegung
-Nicht nur physische sondern auch psychische Belastungen im Rahmen herausfordernder kogniti
-Strukturierte, sich wiederholende und beabsichtigte Verbesserung/Erhaltung der physischen Fitn
-
-KardReha Empfehlungen für Patienten mit Myokarditis, welche treffen zu?
-Es sollte gleich mit intensiver Belastung begonnen werden, um die vorhandene Herzleistung b
-Patienten mit akuter Myokarditis sollen nicht an einer KardReha teilnehmen
-Eine körperliche Ausbelastung sollte nicht erfolgen
-Alle Patienten mit ausgeheilter Myokarditis brauchen keine KardReha mehr absolvieren, da die
-
-Welche Punkte sollte eine sportmedizinische Untersuchung beinhalten?
-Größe, Gewicht, BMI
-Maximaler Ausbelastungstest
-Ruhe-EKG
-Beratung, Hilfestellung die richtige Sportart zu finden
-
-Welche relativen Kontraindikationen gibt es bei der Spiroergometrie?
-Unkontrollierte arterielle Hypertonie
-Koronare Herzerkrankung
-Instabile Angina pectoris
-Akute Lungenembolie
-
-Die wichtigsten Gruppen in der kardiologischen Reha sind?
-"nach akuter Pulmonalarterienembolie"
-"nach akutem Koronarsyndrom"
-"chronische Herzinsuffizienz"
-"hach koronarer Bypass-Operation"
-
-Welche Phasen beschreiben den langfristigen Aufbau eines aeroben Trainings in der KardReha?
-Anpassungsphase
-Stabilisationsphase
-Leistungsphase
-Aufbauphase
-
-Was beschreibt das "MET"?
-Ist bei jeder Person gleich, unabhängig vom Körpergewicht
-Kann niemals unter 1 Fallen
-Dient der Quantifizierung der Intensität durch körperliche Aktivität
-Stoffwechselumsatz in Bezug auf den Ruheumsatz
-
-Erklärte Reha-Ziele?
-Verbesserung von Verlauf und Prognose der Erkrankung
-Positive Beeinflussung anderer Risikofaktoren
-Lebensqualitätsverbesserung
-Förderung der individuellen Gesundheitskompetenz
-
-KardReha Empfehlungen Patienten mit chronischem Koronarsyndrom, welche treffen zu?
-Die KardReha soll über das Training hinaus keine weiteren Komponenten im selben Aufenthal
-Die Reha soll zentrumsbasiert unter fachkardiologischer Verantwortung stattfinden
-Gesamttrainingsvolumen soll 2 1000 min betragen
-Es soll eine kardiologische Rehabilitation durchgeführt werden (unter Einbeziehungen mögliche
-
-Zusammenhang zwischen physischer Aktivität und Erkrankung?
-Chronisch Erkrankte haben meistens entweder ein organpathologisches Funktionsdefizit oder eine ...
-Physische Aktivität hat nicht nur Einfluss auf die Organpathologie sondern auf das Zusammenspiel ...
-Bei körperlich gesunden Personen hat eine verminderte körperliche Aktivität keinerlei negativer Effekte
-Ein Mangel ist bei erkrankten Systemen noch schwerwiegender
-
-Vergleich medikamentöse Therapie und Trainingstherapie?
-Anders als Medikamente hat Trainingstherapie nicht nur auf die Organpathologie Einfluss,
-Anders als bei Medikamenten ist die Dosis der Trainingstherapie nicht ausschlaggebend
-Bei der Art der Umsetzung von Trainingstherapie ist ein vorausgegangener ungesunder Leb
-Zum Ausschluss von Kontraindikationen von gezielter Trainingstherapie ist eine sportmedizinische ...
-
-Niedriges Risiko für den Beginn einer kardiologischen Reha bei Vorliegen folgender Punkte?
-Nach Herztransplantation (klinisch stabil)
-Pathologische Hämodynamik unter Belastung oder in der Erholung
-Keine Zeichen der Herzinsuffizienz
-Auftreten von Benommenheit oder Schwindel während des Belastungstests
-
-Was ist das Ziel, die Anforderung an den 6-Minuten-Gehtest?
-Mindestens 30 m ohne Richtungsänderung
-Tempoänderungen, Pausen, etc. sind erlaubt
-In 6 Minuten "so weit als möglich" zu kommen
-Durchwegs ohne Steigung
-
-Die kardiologische Reha wird in Phasen eingeteilt, welche Zuordnung zur Phase I ist ri
-"Trainingsgruppen" nach der kardiologischen Reha
-Akutbehandlung
-Stationäre Rehabilitation
-Anschluss an die Akutbehandlung
-
-Was sind typische Anwendungsgebiete der Spiroergometrie?
-Schweregrad einer obstruktive Ventilationsstörungen
-Quantifizierung des Trainingserfolgs
-Abschätzen der Arbeitsunfähigkeit/-einschränkung
-Schweregrad der Herzinsuffizienz
-
-Was muss vor Start einer Spiroergometrie beachtet werden?
-Kalibration der Geräte
-Absprache mit dem Patienten wie viel Watt maximal ausgetestet werden sollen
-Name, Alter, Größe und Gewicht des Patienten sind für die Untersuchung an sich nich
-Zustand des Patienten
-
-Welche Modifikationen haben in der kardiologischen Reha eine zentrale Rolle?
-Regelmäßiges körperliches Training
-Regelmäßiger Gang zum Arzt
-Konsequentes Umsetzen einer gesunden Ernährung
-Beendigung des Rauchens
-
-Was wird bei der Spiroergometrie einfach gesagt gemessen?
-Atmung während einer definierten Belastung
-Zusammenspiel von Herz-Kreislauf-Stoffwechsel-Atmung
-Kraft über eine gewissen Dauer
-Grad der Erschöpfung während einer Ausbelastung
-
-Absolute Kontraindikationen für den Beginn einer kardiologischen Reha bei Vorliegen folgender
-Körperliche Behinderung, die ein sicheres und angemessenes körperliches Training verhinder
-Akute Beinvenenthrombose
-Schwere arterielle Hypertonie in Ruhe
-Akute Endokarditis
-
-Welche grundlegenden Belastungsprotokolle gibt es bei der Spiroergometrie?
-Rampenprotokoll
-Stufenprotokoll
-überschießendes Protokoll
-Schleifenprotokoll
-
-Kraft- und Muskelaufbautraining in der KardReha- was trifft zu?
-Ziel ist es, die intramuskuläre Koordination mit einem explosiven Training aufzubauen
-Es sollte ein deutlicher Hypertrophieeffekt mit wenig einer geringen Wiederholungszahl (max. 3) erreicht ...
-Zu Beginn stehen die lokalen aeroben Ausdauerleistungen sowie die Verbesserung der Koordination im ...
-Es sollte vor Beginn ein 1-RM bzw. eine Abschätzung dieses zur Trainingssteuerung durchgeführt werden
 
 Was ist Asthma Bronchiale?
 *eine chronische Erkrankung
 eine akute Erkrankung
 
-<>Erklärung von Asthma
+Was beschreibt das "MET"?
+Ist bei jeder Person gleich, unabhängig vom Körpergewicht
+*Kann niemals unter 1 Fallen
+*Dient der Quantifizierung der Intensität durch körperliche Aktivität
+*Stoffwechselumsatz in Bezug auf den Ruheumsatz
+
+Welche Punkte sollte eine sportmedizinische Untersuchung beinhalten?
+*Größe, Gewicht, BMI
+Maximaler Ausbelastungstest
+*Ruhe-EKG
+*Beratung, Hilfestellung die richtige Sportart zu finden
+
+Was kommt in der WHO Empfehlung zur wöchentlichen körperlichen Aktivität vor?
+*150 min mittleres Intensitätsniveau pro Woche
+*2x muskelkräftigende Übungen pro Woche
+Im Vergleich sollte mehr Kraft als Ausdauer pro Woche trainiert werden
+75 min hochintensives Intervalltraining pro Woche
+
+Welche Domänen klassifiziert die WHO, die für den motorischen Energieverbrauch beeinflussen?
+*Freizeit
+*Haushalt
+*Transport
+*Beruf
+
+Die Rheumatologie beschäftigt sich mit folgenden Aspekten?
+Mit Erkrankungen der hormonbildenden Organen und dessen sekretorischen Funktionen
+Mit Erkrankungen der Lunge und der ventilatorischen Funktionen
+Mit Erkrankungen des Herz-Kreislaufsystems bzw. mit deren Funktionen
+*Mit muskuloskelettalen Erkrankungen bzw. Syndrome des Bewegungssystems
+
+Die Pneumologie beschäftigt sich mit den Funktionen und Erkrankungen folgenden Organs?
+Herz
+*Lunge
+Gefäße
+Magen-Darmtrakt
+
+Welche Antworten beschreiben "physische Aktivität" am besten?
+Strukturierte, sich wiederholende und beabsichtigte, zielgerichtete Verbesserung der physisch
+Jede Bewegung mit einem definierten Ziel
+*Jede körperliche durch Muskelarbeit hervorgerufene Bewegung
+Neben der körperlichen auch die geistige Aktivität bei anspruchsvollen psychischen Anforderung
+
+Was charakterisiert "Training" am besten?
+Jede Form von Bewegung, die den Energieumsatz steigert - ohne definiertes Ziel
+Jede körperliche, durch Muskelarbeit hervorgerufene, Bewegung
+Nicht nur physische sondern auch psychische Belastungen im Rahmen herausfordernder kogniti
+*Strukturierte, sich wiederholende und beabsichtigte Verbesserung/Erhaltung der physischen Fitness
+
+Welche Zusammenhänge treffen auf die Trainingssteuerung in der Trainingstherapie zu?
+Keine hohen Intensitäten möglich --> Nur kurze, aber hochintensive Einheiten durchführen
+Keine hohen Trainingsumfänge möglich -> Eine einmalig sehr lange Einheit planen, dafür nur 1x/Woche
+*Keine hohen Intensitäten möglich -> Erhöhung der Trainingsumfange um gleichen Effekt zu erzielen
+*Keine hohen Trainingsumfänge möglich -> Kurze, intensive Intervalleinheiten um gleichen Effekt zu erzielen
+
+Welche absoluten Kontraindikationen gibt es bei der Spiroergometrie?
+*Instabile Angina pectoris / akute Myokardischämie
+Stattgehabter Herzinfarkt vor 1 Jahr
+Koronare Herzerkrankung
+Schwangerschaft
+*Akuter Herzinfarkt <= 3-5 Tage
+*Unkontrollierbare Herz-/Rythmusstörungen
+*Akute Lungenembolie
+*Akute Beinvenenthrombose
+
+Welche relativen Kontraindikationen gibt es bei der Spiroergometrie?
+*Unkontrollierte arterielle Hypertonie
+*Koronare Herzerkrankung
+Instabile Angina pectoris
+Akute Lungenembolie
+*Tachy-/Bradyarrhythmie
+*Fortgeschrittene Schwangerschaft
+*Nicht kontrollierbare Epilepsie
+*Hämodynamisch eingeschränkte Herzklappenerkrankung
+
+Absolute Abbruchkriterien bei der Spiroergometrie?
+*Abfall des systolischen Blutdrucks um mindestens 10 mmHg gegenüber den Ausgangsblutdruck trotz Belastungsanstieg mit anderen Zeichen der Ischämie
+Abfall des systolischen Blutdrucks um mindestens 10 mmHg gegenüber den Ausgangsblutdruck trotz Belastungsanstieg ohne anderen Zeichen der Ischämie
+Erschöpfung, Luftnot, Giemen, Beinkrampfe oder Claudicatio
+Arterielle Hypertonie uber 250 mmHg systolisch und/oder 115 mmHg diastolisch
+*Eindeutige Angina pectoris
+*Zunehmende zerebrale Symptomatik
+*Technische Gründe, die es nicht möglich machen, EKG / systolischen Blutdruck auszuwerten
+*Wunsch, Belastung zu beenden
+*Zeichen verminderter peripherer Perfusion (Zyanose oder Blässe)
+
+Relative Abbruchkriterien bei der Spiroergometrie?
+Zeichen verminderter peripherer Perfusion (Zyanose oder Blässe)
+Der Wunsch des Untersuchten, die Belastung zu beenden
+Anhaltende ventrikuläre Tachykardie
+*Abfall der Tretkurbel-Umdrehungszahl <40 U/min
+*Erschöpfung, Luftnot, Giemen, Beinkrampfe oder Claudicatio
+*Arterielle Hypertonie über 250 mmHg systolisch und/oder 115 mmHg diastolisch
+Abfall des systolischen Blutdrucks um mindestens 10 mmHg gegenüber den Ausgangsblutdruck trotz Belastungsanstieg mit anderen Zeichen der Ischämie
+*Abfall des systolischen Blutdrucks um mindestens 10 mmHg gegenüber den Ausgangsblutdruck trotz Belastungsanstieg ohne anderen Zeichen der Ischämie
+*Zunehmende Angina pectoris
+
+Was muss vor Start einer Spiroergometrie beachtet werden?
+*Kalibration der Geräte
+Absprache mit dem Patienten wie viel Watt maximal ausgetestet werden sollen
+Name, Alter, Größe und Gewicht des Patienten sind für die Untersuchung an sich nicht relevant
+*Zustand des Patienten
+
+Welche grundlegenden Belastungsprotokolle gibt es bei der Spiroergometrie?
+*Rampenprotokoll
+*Stufenprotokoll
+überschießendes Protokoll
+Schleifenprotokoll
+
+Was beschreibt die BORG-Skala?
+Den Erfahrungswert eines Patienten in der Trainingstherapie
+Die maximal mögliche Wattstufe bei der Spiroergometrie
+Die tatsächlich Messbare Erschöpfung
+*Die subjektive Erschöpfung
+
+Was ist das Ziel, die Anforderung an den 6-Minuten-Gehtest?
+*Mindestens 30m ohne Richtungsanderung
+*In 6 Minuten so weit als möglich zu kommen
+*Tempoänderungen, Pausen, etc, sind erlaubt
+*Durchwegs ohne Steigung
+
+Welche zusätzlichen Informationen liefert mir die Spiroergometrie im Vergleich zur Ergometrie?
+*Sauerstoffaufnahme
+Belastungs-EKG
+*Ventilationsvolumen
+*Kohlendioxidabgabe
+*Atemfrequenz / Atemzugvolumen
+
+Welche Vorteile hat die Spiroergometrie im Vergleich zur Ergometrie?
+Herzfrequenzverhalten während der Belastung
+*Aussage über Gasaustausch während der Belastung
+Blutdruckverhalten während der Belastung
+Kontrolle und Abschätzung der Mitarbeit des Probanden
+
+Was wird bei der Spiroergometrie einfach gesagt gemessen?
+*Atmung während einer definierten Belastung
+Zusammenspiel von Herz-Kreislauf-Stoffwechsel-Atmung
+Kraft über eine gewissen Dauer
+Grad der Erschöpfung während einer Ausbelastung
+
+Was sind typische Anwendungsgebiete der Spiroergometrie?
+*Schweregrad einer obstruktive Ventilationsstörungen
+*Quantifizierung des Trainingserfolgs
+*Abschätzen der Arbeitsunfähigkeit/-einschränkung
+*Schweregrad der Herzinsuffizienz
+*Risikoanalyse vor OPs
+*Beurteilung des Reha Fortschritts
+
+Welche Parameter sollten bei einer aussagekräftigen Spiroergometrie beachtet werden?
+Belastungsdauer mind. 15 min
+*Trittfrequenz zw. 60- 80 U/min
+*Alter des Patienten
+*Krankheiten des Patienten
+*Belastungsdauer 8-12min
+
+Die wichtigsten Gruppen in der kardiologischen Reha sind?
+"nach akuter Pulmonalarterienembolie"
+*"nach koronarer Bypass-Operation"
+*"chronische Herzinsuffizienz"
+*"nach akutem Koronarsyndrom"
+
+Erklärte Reha-Ziele?
+*Lebensqualitätsverbesserung
+*Positive Beeinflussung anderer Risikofaktoren
+*Förderung der individuellen Gesundheitskompetenz
+*Verbesserung von Verlauf und Prognose der Erkrankung
+
+Die kardiologische Reha wird in Phasen eingeteilt, welche Zuordnung zur Phase 1 ist richtig?
+*Akutbehandlung
+Anschluss an die Akutbehandlung mittels ambulanter/stationarer Reha
+Trainingstherapiegruppen nach Abschluss der kardiologischen Reha
+Anschluss an eine ambulante Reha nach Akutbehandlung
+
+Absolute Kontraindikationen für den Beginn einer kardiologischen Reha bei Vorliegen folgender Punkte?
+*Unkontrollierte kardiale Arrhythmien in Ruhe oder unter Belastung
+*akute Aortendissektion
+*Akutes Koronarsyndrom < 48h
+*Dekompensierte Herzinsuffizienz
+*schwere Aortenklappenstenose oder andere schwere Herzklappenerkrankungen
+*akute tiefe Beinvenenthrombose
+*aktive Mykarditis / Perikarditis / Endokartitis
+*kürzlich abgelaufener Schlaganfall
+signifikante Anämie
+bekannte Aortendissektion
+schwere arterielle Hypertonie in Ruhe
+
+Absolute Kontraindikationen für den Beginn einer kardiologischen Reha bei Vorliegen folgender
+*Körperliche Behinderung, die ein sicheres und angemessenes körperliches Training verhinder
+*Akute Beinvenenthrombose
+Schwere arterielle Hypertonie in Ruhe
+*Akute Endokarditis
+signifikante Anämie
+
+Relative Kontraindikationen für den Beginn einer kardiologischen Reha bei Vorliegen folgender
+Körperliche Behinderung, die ein sicheres und angemessenes körperliches Training verhinder
+Akute Beinvenenthrombose
+*Schwere arterielle Hypertonie in Ruhe
+Akute Endokarditis
+*signifikante Anämie
+*bekannte Aortendissektion
+*schwere, krankheitsrelevante Elektrolytentgleisungen
+*therapeutisch unkontrollierte Tachy- oder Bradyarrhythmie/-kardien
+
+KardReha Empfehlungen für Patienten mit Myokarditis, welche treffen zu?
+*Patienten mit akuter Myokarditis sollen nicht an einer KardReha teilnehmen
+*Eine körperliche Ausbelastung sollte nicht erfolgen.
+Alle Patienten mit ausgeheilter Myokarditis brauchen keine KardReha mehr absolvieren, da diese ausgeheilt ist
+Es sollte gleich mit intensiver Belastung begonnen werden, um die vorhandene Herzleistung beurteilen zu können
+
+Welche Phasen beschreiben den langfristigen Aufbau eines aeroben Trainings in der KardReha?
+*Anpassungsphase
+*Stabilisationsphase
+Leistungsphase
+*Aufbauphase
+
+Welche Trainingsparameter sind für die laufende KardReha von Bedeutung?
+*Prozentualer Anteil der maximal erreichten Herzfrequenz (%HFmax)
+*Borg-Skala (RPE = rate of perceived exertion)
+*Prozentualer Anteil der maximal erreichten Sauerstoffaufnahme (%VO2peak)
+Prozentualer Anteil der maximal erreichten Leistung (%Wattmax)
+*Atemfrequenz
+
+Stufen eines Kraftausdauer- bzw. Muskelaufbautrainings
+*Vortraining
+*Kraftausdauertraining
+*Muskelaufbautraining 1
+*Muskelaufbautraining 2
+Leistungstraining
+
+Welche Modifikationen haben in der kardiologischen Reha eine zentrale Rolle?
+*Regelmäßiges körperliches Training
+Regelmäßiger Gang zum Arzt
+*Konsequentes Umsetzen einer gesunden Ernährung
+*Beendigung des Rauchens
+
+Welche Risikofaktoren sollten konsequent der kardiologischen Reha medikamentös behandelt werden?
+Depressive Verstimmungen
+*Hypercholesterinämie
+*Diabetes mellitus
+*Arterielle Hypertonie
+
+Niedriges Risiko für den Beginn einer kardiologischen Reha bei Vorliegen folgender Punkte?
+Nach Herztransplantation (klinisch stabil)
+Pathologische Hämodynamik unter Belastung oder in der Erholung
+*Keine Zeichen der Herzinsuffizienz
+Auftreten von Benommenheit oder Schwindel während des Belastungstests
+
+Moderates Risiko für den Beginn einer kardiologischen Reha bei Vorliegen folgender Punkte?
+*Auftreten von Angina pectoris bei höheren Belastungen während des Belastungstests
+*Auftreten von ungewöhnlicher Kurzatmigkeit, Benommenheit oder Schwindel bei höheren Belastungsintensitäten
+Nach Herzstillstand oder Reanimation
+Keine signifikante linksventrikulare Dysfunktion (EF 2 50 %)
+
+Hohes Risiko für den Beginn einer kardiologischen Reha bei Vorliegen folgender Punkte?
+Körperliche Leistungsfähigkeit 27 METS
+*Nach Herzschrittmacher-Implantation
+*Komplexe Arrhythmien in Ruhe oder unter Belastung
+Mittelgradig eingeschränkte linksventrikuläre Pumpfunktion (EF 40 - 49%)
+*reduzierte linksventrikuläre Pumpfunktion (EF <40%)
+
+<>KardReha Empfehlungen für ACS, welche Antworten treffen zu?
+Eine Reha nach akutem Koronarsyndrom sollte aufgrund der kardialen Belastung nicht durchgeführt werden
+Eine Reha soll zwar medikamentöse und psychologische Hilfestellung leisten, jedoch ist ein Training nicht empfohlen
+Die Trainingsintensität sollte sich unterhalb der individuellen aeroben Schwelle bewegen
+*Ein Trainingsprogramm soll ein Gesamttrainingsvolumen von ≥ 1000 min abdecken
+
+Risikofaktoren für eine COPD können sein?
+*Inhalativer Tabakkonsum
+*Atemwegsinfektionen in der Kindheit
+*Inhalativer Konsum alternativer Tabakprodukte
+*Berufsbedingte inhalative Noxen
+
+Welche Punkte gehören zur Pathophysiologie des Asthma bronchiale
+Durchgehende Beschwerden wie Atemnot
+*Entzündung der Bronchien
+*Chronisch anhaltende Entzündung
+*Bildung eines zähen Schleims
+
+Vergleich medikamentöse Therapie und Trainingstherapie?
+*Anders als Medikamente hat Trainingstherapie nicht nur auf die Organpathologie Einfluss, sondern auch auf das Zusammenspiel der Ganzkörper...
+Anders als bei Medikamenten ist die Dosis der Trainingstherapie nicht ausschlaggebend
+Bei der Art der Umsetzung von Trainingstherapie ist ein vorausgegangener ungesunder Lebensstil nicht ausschlaggebend
+*Zum Ausschluss von Kontraindikationen von gezielter Trainingstherapie ist eine sportmedizinische Untersuchung notwendig
+
+KardReha Empfehlungen für Bypass operierte Patienten, welche treffen zu?
+Über das Training hinaus braucht es keine besonderen Inhalte für eine Verbesserung der Prognose
+*Es soll eine KardReha im Anschluss an die Operation erfolgen
+*Die Trainingsintensitat soll unter kontrollierten Bedingungen im oberen Drittel des individuell ermittelten vertretbaran Intensitätsbereich liegen
+Das Trainingsprogramm kann wie zB auch mit Herzinfarktpatienten ohne Einschrankungen durchgeführt werden
+
+KardReha Empfehlungen für Herzinsuffizienzpatienten, welche treffen zu?
+Es gibt für diese Patienten nur die Möglichkeit einer stationären Reha, da der Überwachungsaufwand an
+*Eine KardReha soll auf der Basis eines individuell angepassten strukturierten und überwachten Trainings
+Eine KardReha ist für diese Patienten aufgrund der schlechten Herzleistung nicht empfohlen
+Für Patienten mit Herzinsuffizienz (NYHA I-III) soll erst nach längerer Pause nach stationärer Behandlung
+
+KardReha Empfehlungen Patienten mit chronischem Koronarsyndrom, welche treffen zu?
+Die KardReha soll über das Training hinaus keine weiteren Komponenten im selben Aufenthalt beinhalten
+*Die Reha soll zentrumsbasiert unter fachkardiologischer Verantwortung stattfinden
+*Gesamttrainingsvolumen soll >= 1000 min betragen
+*Es soll eine kardiologische Rehabilitation durchgeführt werden (unter Einbeziehungen möglicher Einschränkungen)
+
+Welche Trainingslangen werden in den verschiedenen Phasen der KardReha angestrebt?
+*Stabilisationsphase - allmähliche Verlängerung der Trainingsdauer von 20-45 (bis zu 60) min
+*Aufbauphase - allmähliche Verlängerung der Trainingsdauer von 10 auf 20 (bis zu 45) min
+Abschlussphase - gegen Ende der KardReha eine maximale Ausbelastung zur Evaluierung des Trainingseffekts
+*Anpassungsphase - beginnend mit ca. 5 min, schrittweise Verlängerung auf 10 min
+
+Kraft- und Muskelaufbautraining in der KardReha- was trifft zu?
+Ziel ist es, die intramuskuläre Koordination mit einem explosiven Training aufzubauen
+Es sollte ein deutlicher Hypertrophieeffekt mit wenig einer geringen Wiederholungszahl (max. 3) erreicht ...
+*Zu Beginn stehen die lokalen aeroben Ausdauerleistungen sowie die Verbesserung der Koordination im Vordergrund
+*Es sollte vor Beginn ein 1-RM bzw. eine Abschätzung dieses zur Trainingssteuerung durchgeführt werden
+
+Erklärung von Asthma
 *Verschleimung der Bronchien
+*chronische Entzündung der Atemwege
+*Symptome: Atemnot, Giemen, Brustenge und Husten
+Ist keine Krankheit
 
-xArthrose Maßnahmen
-*Kühlen/Wärmen
-*Operative Versteifung
-*NSAR
+Rheumatoide Arthritis Symptome
+*Schmerzen in den Finger- und Zehengelenken
+*Morgensteifigkeit
+*Rheumaknoten
+*Müdigkeit
+Leistungsfähigkeit
 
-xRheumatoide Arthritis Anzeichen
-#TODO
+Zusammenhang zwischen physischer Aktivität und Erkrankung?
+*Chronisch Erkrankte haben meistens entweder ein organpathologisches Funktionsdefizit oder eine ...
+*Physische Aktivität hat nicht nur Einfluss auf die Organpathologie sondern auf das Zusammenspiel ...
+Bei körperlich gesunden Personen hat eine verminderte körperliche Aktivität keinerlei negativer Effekte
+*Ein Mangel ist bei erkrankten Systemen noch schwerwiegender
 
-xRheumatoide Arthritis Diagnostik
-*Anamnese, Erscheinungsbild
-*Labor
-*Röngten
+Welche Besonderheiten treffen bei Patienten in der pneumologischen Reha zu?
+Wenn eine Sauerstoffgabe während der Reha notwendig wird, muss diese abgebrochen werden
+*Neben der körperlichen Reha ist auch eine atemphysiotherapeutische Begleittherapie sinnvoll
+Die Lungenfunktion müssen auf einem guten Niveau sein, bevor die Reha starten kann
+Aufgrund der zugrunde liegenden pneumologischen Erkrankung kann während der Belastung die Lungenfunktion rapide abnehmen
 
-xWas ist Mb. Bechterew
-*Rückenschmerzen
+Was ist Mb. Bechterew?
+Rückenschmerzen
 *unheilbar, chronische und entzündliche Krankheit
 *genetisch bedingt
+*kann zur völligen Versteifung der Wirbelsäule führen
 
-xMb. Bechterew Grundlagen
+Mb. Bechterew Grundlagen
 *schleichender Beginn
 *Krankheitsbeginn im frühen Erwachsenenalter
-
-xBehandlungsmöglichkeiten Mb. Bechterew
-*Bewegungstherapie
-*Operation
-*Koritkosteroite
+keine Morgensteifigkeit
+*genetische Disposition
